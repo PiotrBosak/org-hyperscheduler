@@ -107,7 +107,7 @@ let calendar = new tui.Calendar('#calendar', {
     },
     ],
 
-    defaultView: 'week', // set 'month'
+    defaultView: 'day', // set 'month'
     month: {
       visibleWeeksCount: 2 // visible week count in monthly
     },
